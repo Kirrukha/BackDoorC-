@@ -1,0 +1,14 @@
+D:\Univer\BackDoor\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\Univer\BackDoor\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\Univer\BackDoor\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\Univer\BackDoor\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+D:\Univer\BackDoor\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\Univer\BackDoor\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\Univer\BackDoor\Cliente\Cliente\obj\Debug\Cliente.pdb
+D:\Univer\BackDoor[1]\Cliente\Cliente\bin\Debug\Cliente.exe.config
+D:\Univer\BackDoor[1]\Cliente\Cliente\bin\Debug\Cliente.exe
+D:\Univer\BackDoor[1]\Cliente\Cliente\bin\Debug\Cliente.pdb
+D:\Univer\BackDoor[1]\Cliente\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\Univer\BackDoor[1]\Cliente\Cliente\obj\Debug\Cliente.exe
+D:\Univer\BackDoor[1]\Cliente\Cliente\obj\Debug\Cliente.pdb
+D:\Univer\BackDoor[1]\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
